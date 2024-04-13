@@ -82,3 +82,4 @@ but
 -->in splice we take out the element and the last index is considered but this also makes the change in the original 
 -->array as it removes the element from the original array 
 */
+
